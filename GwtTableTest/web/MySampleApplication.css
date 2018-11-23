@@ -1,0 +1,21 @@
+/** Add css rules here for your application. */
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+body, td, a, div, .p {
+    font-family: arial, sans-serif
+}
+.dateInput{
+    background: white;
+    border: black;
+}
+.dialog{
+    background: grey;
+    border: black;
+    vertical-align: top;
+    horizontal-align: right;
+}
